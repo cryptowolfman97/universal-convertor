@@ -6,7 +6,7 @@ package.domain = com.shvertex
 
 source.dir = .
 source.include_exts = py,png,jpg,jpeg,kv,atlas,json,txt,csv,wav,ogg,html,htm,md
-version = 1.1
+version = 1.2
 
 requirements = python3,kivy==2.3.1,kivymd==1.2.0,pillow,requests,certifi,rsa,pyasn1,pyjnius,filetype
 
